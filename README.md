@@ -25,14 +25,9 @@ Explore the sentiment analysis results, including bar graphs, pie charts, and ma
 Analyze the sentiment scores and ratings to make informed decisions about hotel choices.
 Use the map feature to visualize the location of each hotel on the map.
 
-Contributors:
 
-1)Srinath
-2)Rupak Jayan
-3)Adithya Variar
+![Uploading 354895432-e77cc4e7-84b7-464d-af16-11d7c7b45d7d.png…]()
 
-Acknowledgments:
-
-We would like to thank the organizers of the AlgoArena hackathon(Yantra'24) organized by VIT Vellore for providing the opportunity to work on this project.
-
+![354895597-0fb22607-39eb-48e9-b0ce-d9b96cf7a883](https://github.com/user-attachments/assets/34b27be2-9948-4a41-bd69-c91ce72c6240)
+![354895611-ed0a1ded-0878-40da-ab4b-68dce31d2814](https://github.com/user-attachments/assets/f09ab4cf-0455-417a-b64c-27d67f9db663)
 
